@@ -1,0 +1,26 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
+.token
+**/.token
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+.token/
+# generated files
+src/declarations/
+
+# frontend code
+node_modules/
+backupHello/
+token/
+dist/
+
+# environment variables
+.env
